@@ -58,7 +58,7 @@ nav img {
 header {
   height: 350px;
   width: 100%;
-  background-image: url("./assets/kw-background.png");
+  background-image: url("kw-background.png");
   background-size: 100% 80%;
   color: white;
   background-size: cover;
